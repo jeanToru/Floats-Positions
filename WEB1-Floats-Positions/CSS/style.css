@@ -1,1 +1,62 @@
+/*  */ 
+#base{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+}
 
+#header{
+    background-color: red;
+    height: 100px;
+    width: 1000px;
+}
+
+#tope{
+    background-color: yellow;
+    color: black;
+    float: left;
+    width: 250px;
+    height: 500px;
+}
+
+#fondo{
+    background-color: #e600ff;
+    float: left;
+    width: 250px;
+    height: 500px;
+}
+
+#derecha{
+    background-color: #1b1464;
+    float: left;
+    width: 250px;
+    height: 500px;
+}
+
+#izquierda{
+    background-color: #3ab54b;
+    float: left;
+    width: 250px;
+    height: 500px;
+}
+
+#bajo{
+    background-color: #0a589a;
+    float: left;
+    height: 300px;
+    width: 500px;
+}
+
+#bajoderecha{
+    background-color: #605b5b;
+    float: left;
+    height: 300px;
+    width: 500px;
+}
+
+#abajo{
+    background-color: red;
+    width: 1000px;
+    height: 50px;
+    float: left;
+}
