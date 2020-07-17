@@ -1,7 +1,6 @@
 /*  */ 
 #base{
     width: 1000px;
-    height: 400px;
     margin: 0 auto;
 }
 
@@ -87,3 +86,9 @@
     top: 7px;
     left: 10px;
 }
+/* Clearfix - floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
